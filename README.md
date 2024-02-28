@@ -9,7 +9,7 @@ column augmentation, and then loading into BigQuery for further analysis
 
 # Architecture
 
-![Airchitecture Diagram]([https://github.com/MrSachinGoyal/healthcare_data_processing_pipeline/blob/master/airflow_dag.png?raw=true](https://github.com/Yogesh-389/Automated-Data-Orchestration-and-Transformation-Pipeline-with-Apache-Airflow/blob/main/Health_Data_Analysis.drawio.png?raw=true))
+![Airchitecture Diagram](https://github.com/MrSachinGoyal/healthcare_data_processing_pipeline/blob/master/airflow_dag.png?raw=true](https://github.com/Yogesh-389/Automated-Data-Orchestration-and-Transformation-Pipeline-with-Apache-Airflow/blob/main/Health_Data_Analysis.drawio.png?raw=true)
 
 # Tech Used: 
 
