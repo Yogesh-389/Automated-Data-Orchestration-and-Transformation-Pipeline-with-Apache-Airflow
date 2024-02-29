@@ -23,7 +23,7 @@ column augmentation, and then loading into BigQuery for further analysis
 
 ## Airflow DAG Visualization
 
-![Airflow DAG](https://github.com/Yogesh-389/healthcare_data_processing_pipeline/blob/master/airflow_dag.png?raw=true)
+![Airflow DAG](https://github.com/Yogesh-389/Automated-Data-Orchestration-and-Transformation-Pipeline-with-Apache-Airflow/blob/main/final_helath_care_dag.png?raw=true)
 
 ## PySpark Script (`pyspark_app.py`)
 
