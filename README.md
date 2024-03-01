@@ -2,9 +2,11 @@
 
 # Overview
 
-• Crafted a Apache Airflow pipeline for daily file ingestion into GCS Bucket, leveraging FileSensor operator for file
+Crafted a Apache Airflow pipeline for daily file ingestion into GCS Bucket, leveraging FileSensor operator for file
 arrival and then triggering PySpark application submission to GCP Dataproc cluster.
-• Implemented comprehensive data processing within PySpark, encompassing data cleaning, quality checks, and
+
+
+Implemented comprehensive data processing within PySpark, encompassing data cleaning, quality checks, and
 column augmentation, and then loading into BigQuery for further analysis
 
 # Architecture
